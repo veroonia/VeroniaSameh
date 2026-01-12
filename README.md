@@ -28,11 +28,7 @@ I actively pursue **hands-on experience and continuous learning** in computer sc
 </a>
 
 ## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veroonia/veroonia/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veroonia/veroonia/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/veroonia/veroonia/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake](https://raw.githubusercontent.com/veroonia/veroonia/output/github-contribution-grid-snake-dark.svg?cache=2)
 
 ## 📈 GitHub Metrics
 ![Metrics](https://raw.githubusercontent.com/veroonia/veroonia/main/github-metrics.svg)
