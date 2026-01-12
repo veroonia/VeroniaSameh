@@ -27,8 +27,6 @@ I actively pursue **hands-on experience and continuous learning** in computer sc
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-## 🧠 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veroonia&layout=compact&theme=github_dark)
 
 ## 📈 GitHub Metrics
 ![Metrics](https://raw.githubusercontent.com/veroonia/veroonia/main/github-metrics.svg)
