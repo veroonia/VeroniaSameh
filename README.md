@@ -27,6 +27,10 @@ I actively pursue **hands-on experience and continuous learning** in computer sc
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/veroonia/veroonia/output/github-contribution-grid-snake-dark.svg)
+
 
 ## 📈 GitHub Metrics
 ![Metrics](https://raw.githubusercontent.com/veroonia/veroonia/main/github-metrics.svg)
